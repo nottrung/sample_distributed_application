@@ -10,7 +10,7 @@
 * Remote Door Control via App: Allow users to lock or unlock the door remotely from the app.
 ## 3. Lighting Control
 * Turn Lights On/Off via App: Control lighting directly through the app.
-* Set Lighting Schedule: Create and manage schedules for automatic lighting control at specific times (e.g., turn on lights at 7 PM, turn off at 10 PM).
+* Set Lighting Schedule: Create and manage schedules for automatic lighting control at specific times.
 * Real-time Status Updates: Display the current status of each light (on or off) within the app.
 ## 4. Fan Control
 * Turn Fan On/Off via App: Control fan devices remotely using the app.
