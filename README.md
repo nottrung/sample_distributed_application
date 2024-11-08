@@ -1,8 +1,8 @@
 # sample_distributed_application
 
 ## 1. User Authentication and Profile Management
-* Register User: Allow new users to create an account, including role-based access levels if needed (e.g., Admin, Regular User).
-* Login User: Authenticate users using email, username, or biometric data (optional).
+* Register User: Allow new users to create an account, including role-based access levels if needed.
+* Login User: Authenticate users using email, username, or biometric data.
 * Manage User Profile: Edit profile information, including changing the password and updating personal details.
 ## 2. Door Control
 * Unlock Door with Password: Validate and unlock the door when a user inputs the correct password.
@@ -24,4 +24,4 @@ Voice Activation for Lights, and Fan: Enable voice commands to control lights, a
 * App-Based Device Control: Allow remote access to turn devices on/off and manage schedules through the mobile app.
 ## 8. Device Status Monitoring
 * Real-Time Status Updates: Show the current state of each device (e.g., door locked/unlocked, light on/off, fan on/off).
-* Status Alerts: Send alerts for unexpected events, such as unauthorized door access attempts or HVAC system malfunctions.
+* Status Alerts: Send alerts for unexpected events, such as unauthorized door access attempts system malfunctions.
